@@ -1,0 +1,25 @@
+.container{
+    margin-top: 23px;
+}
+.card{
+    margin-top: 30px;
+}
+.row{
+    margin-left: 90px;
+}
+.sliders{
+    margin-top: 27px;
+}
+/* .d-blocl w-100{
+    height: 20%;
+    width: 30%;
+} */
+.navbar{
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.col{
+    margin-top: 10px;
+    margin-bottom: 45px;
+}
